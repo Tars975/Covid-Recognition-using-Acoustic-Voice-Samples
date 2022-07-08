@@ -1,12 +1,11 @@
 # Covid Detection using Acoustics Samples-Python3
 
 ###### For Detailed Explaination visit 
-https://medium.com/@shivam_shukla/speaker-identification-and-verification-using-ml-techniques-and-hindi-speech-dataset-2f2ad8f2aef6
-###### You can download custom-built Dataset from
-https://github.com/shivam-shukla/Speech-Dataset-in-Hindi-Language
 
+###### You can download custom-built Dataset from
+https://towardsdatascience.com/gaussian-mixture-modelling-gmm-833c88587c7f
 ```
-* Install Python Version 3 or above.
+*
 ```
 ```
 * Add Audio Files to the Voice_Samples_Training Folder (.wav format) and with respect to the audio files 
@@ -23,6 +22,5 @@ https://github.com/shivam-shukla/Speech-Dataset-in-Hindi-Language
 * Add all the testing audio samples at the testing_Audio Folder and its path in Testing_audio_Path.txt file.
 ```
 ```
-* Now you can test your model by running main.py file.
 ```
 
