@@ -1,4 +1,4 @@
-# Speaker-Recognition-Using-Deep-Learning-Python3
+# Covid Detection using Acoustics Samples-Python3
 
 ###### For Detailed Explaination visit 
 https://medium.com/@shivam_shukla/speaker-identification-and-verification-using-ml-techniques-and-hindi-speech-dataset-2f2ad8f2aef6
