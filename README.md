@@ -5,9 +5,7 @@
 ###### You can download custom-built Dataset from
 https://towardsdatascience.com/gaussian-mixture-modelling-gmm-833c88587c7f
 ```
-*
-```
-```
+
 * Add Audio Files to the Voice_Samples_Training Folder (.wav format) and with respect to the audio files 
   	add the directory to the file Voice_Samples_Training_Path.txt
 ```
@@ -21,6 +19,5 @@ https://towardsdatascience.com/gaussian-mixture-modelling-gmm-833c88587c7f
 ```
 * Add all the testing audio samples at the testing_Audio Folder and its path in Testing_audio_Path.txt file.
 ```
-```
-```
+
 
